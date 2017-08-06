@@ -1,1 +1,1 @@
-# supermarket-pricing
+# Kata 01 Supermarket Pricing
